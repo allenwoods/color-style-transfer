@@ -145,8 +145,10 @@ dmypy.json
 
 # Projects setting
 .ipynb_checkpoints/
-data/
+
+# Dataset
+data/painting/*.jpg
+data/photo/*.jpg
+
 # IDE setting
 .idea/
-=======
->>>>>>> 8b7c6477f2da7d393155c5a18b1682e763dcac91
